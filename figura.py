@@ -101,4 +101,6 @@ class Figura:
             pygame.display.flip()
 
         pygame.quit()
-        sys.exit()
+
+    def __str__(self):
+        return f'Vertices: {self.vertices}\nArestas: {self.arestas}'
