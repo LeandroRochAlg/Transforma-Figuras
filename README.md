@@ -48,7 +48,7 @@ Para reproduzir a transformação apresentada, será necessário:
     python main.py -4 0 -1 1 0 4 1 1 4 0 1 -1 0 -4 -1 -1
     ```
 - Pressionar `seta + shift` 3 vezes;
-- Pressionar `esquerda` 4 vezes;
+- Pressionar `direita` 4 vezes;
 - Pressionar `cima` 4 vezes.
 
 ## Dependências
