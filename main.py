@@ -9,8 +9,8 @@ if __name__ == '__main__':
     if len(pontos) % 2 != 0:
         print('A quantidade de argumentos deve ser par')
         sys.exit(1)
-    elif len(pontos) < 2:
-        print('A quantidade de argumentos deve ser maior ou igual a 2')
+    elif len(pontos) < 6:
+        print('A quantidade de argumentos deve ser maior ou igual a 6')
         sys.exit(1)
 
     # Cria uma matriz com os pontos
